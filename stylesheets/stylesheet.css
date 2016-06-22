@@ -1,10 +1,10 @@
 h1{
-    color : lightgrey;
+    color : white;
     text-align : Center;
   }
   
 .home-header{
-    background-color : black;
+    background-color : lime;
     height : 100px;
 }
 
