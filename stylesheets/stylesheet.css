@@ -1,9 +1,9 @@
 h1{
-    color : Green;
+    color : lightgrey;
     text-align : Center;
   }
   
 .home-header{
-    background-color : Blue;
+    background-color : black;
     height : 100px;
 }
