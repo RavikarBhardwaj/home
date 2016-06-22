@@ -2,3 +2,8 @@ h1{
     color : Green;
     text-align : Center;
   }
+  
+.home-header{
+    background-color : Blue;
+    Height : 600px;
+}
